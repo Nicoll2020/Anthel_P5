@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textView" type="id">blank</item>
+    <item name="imageView2" type="id">imagen1</item>
+    <item name="email_text_input_layaout" type="id">email_inputlayout</item>
+    <item name="email_edit_text" type="id">email_editext</item>
+    <item name="password_text_input_layout" type="id">pass_inputlayout</item>
+    <item name="password_edit_text" type="id">pass_editext</item>
+    <item name="errorlogin" type="id">errorlogin</item>
+    <item name="inicio_button" type="id">inicio_button</item>
+    <item name="register_button" type="id">register_button</item>
+</resources>

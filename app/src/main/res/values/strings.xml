@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Anthel</string>
+    <string name="Login">Iniciar sesión</string>
+    <string name="singin">Registrarse</string>
+    <string name="email">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="required_field">"Espacio requerido "</string>
+    <string name="name">name</string>
+    <string name="repPassword">repass</string>
+    <string name="femenino">Mujer</string>
+    <string name="male">Hombre</string>
+    <string name="date">"Fecha de nacimiento "</string>
+    <string name="nacimiento">"Lugar de nacimiento "</string>
+    <string name="register">Registrarse</string>
+    <string name="info">Info</string>
+</resources>
